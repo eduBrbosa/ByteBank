@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Projetos\\ByteBankBibliotecas\\ByteBank\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2FE7FADF-C5DE-4D66-BA13-B06D288C9607}|Itens de Solu\u00E7\u00E3o{2FE7FADF-C5DE-4D66-BA13-B06D288C9607}|C:\\Projetos\\ByteBankBibliotecas\\ByteBank\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{2FE7FADF-C5DE-4D66-BA13-B06D288C9607}|Itens de Solu\u00E7\u00E3o{2FE7FADF-C5DE-4D66-BA13-B06D288C9607}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2C9C301E-5B56-4195-8662-30C84E970EC8}|ByteBank.SistemaAgencia\\ByteBank.SistemaAgencia.csproj|c:\\projetos\\bytebankbibliotecas\\bytebank\\bytebank.sistemaagencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C9C301E-5B56-4195-8662-30C84E970EC8}|ByteBank.SistemaAgencia\\ByteBank.SistemaAgencia.csproj|solutionrelative:bytebank.sistemaagencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,21 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Projetos\\ByteBankBibliotecas\\ByteBank\\ByteBank.SistemaAgencia\\Program.cs",
-              "RelativeDocumentMoniker": "ByteBank.SistemaAgencia\\Program.cs",
-              "ToolTip": "C:\\Projetos\\ByteBankBibliotecas\\ByteBank\\ByteBank.SistemaAgencia\\Program.cs",
-              "RelativeToolTip": "ByteBank.SistemaAgencia\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T22:44:30.258Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
@@ -36,6 +27,32 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Projetos\\ByteBankBibliotecas\\ByteBank\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Projetos\\ByteBankBibliotecas\\ByteBank\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-13T22:54:12.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\ByteBankBibliotecas\\ByteBank\\ByteBank.SistemaAgencia\\Program.cs",
+              "RelativeDocumentMoniker": "ByteBank.SistemaAgencia\\Program.cs",
+              "ToolTip": "C:\\Projetos\\ByteBankBibliotecas\\ByteBank\\ByteBank.SistemaAgencia\\Program.cs",
+              "RelativeToolTip": "ByteBank.SistemaAgencia\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T22:44:30.258Z",
+              "EditorCaption": ""
             }
           ]
         }
