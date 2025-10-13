@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Projetos\\ByteBankBibliotecas\\ByteBank\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C9C301E-5B56-4195-8662-30C84E970EC8}|ByteBank.SistemaAgencia\\ByteBank.SistemaAgencia.csproj|c:\\projetos\\bytebankbibliotecas\\bytebank\\bytebank.sistemaagencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C9C301E-5B56-4195-8662-30C84E970EC8}|ByteBank.SistemaAgencia\\ByteBank.SistemaAgencia.csproj|solutionrelative:bytebank.sistemaagencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\ByteBankBibliotecas\\ByteBank\\ByteBank.SistemaAgencia\\Program.cs",
+              "RelativeDocumentMoniker": "ByteBank.SistemaAgencia\\Program.cs",
+              "ToolTip": "C:\\Projetos\\ByteBankBibliotecas\\ByteBank\\ByteBank.SistemaAgencia\\Program.cs",
+              "RelativeToolTip": "ByteBank.SistemaAgencia\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T22:44:30.258Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
