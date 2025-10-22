@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using ByteBank.Modelos;
+using Humanizer;
 
 namespace ByteBank.SistemaAgencia
 {
@@ -11,13 +12,13 @@ namespace ByteBank.SistemaAgencia
     {
         static void Main(string[] args)
         {
-            DateTime dataFimPagamento = new DateTime(2026, 03, 14);
+            DateTime dataFimPagamento = new DateTime(2025, 10, 26);
             DateTime dataCorrente = DateTime.Now;
 
-            TimeSpan diferenca = dataFimPagamento - dataCorrente;
+            TimeSpan diferenca = TimeSpan.FromMinutes(120);//dataFimPagamento - dataCorrente;
 
 
-            string msg = $"Vencimento em {GetIntevaloDeTempoLegivel(diferenca)}";
+            string msg = $"Vencimento em {TimeSpanHumanizeExtensions.Humanize(diferenca)}";
 
             Console.WriteLine(dataCorrente);
             Console.WriteLine(dataFimPagamento);
@@ -27,15 +28,6 @@ namespace ByteBank.SistemaAgencia
         }
 
 
-        static string GetIntevaloDeTempoLegivel(TimeSpan timeSpan)
-        {
-            if (timeSpan.Days > 30)
-            {
-                int quantidadeMeses = timeSpan.Days / 30;
-                return quantidadeMeses + " mês(es)";
-            }
-
-            return timeSpan.Days + " dias";
-        }
+        
     }
 }
