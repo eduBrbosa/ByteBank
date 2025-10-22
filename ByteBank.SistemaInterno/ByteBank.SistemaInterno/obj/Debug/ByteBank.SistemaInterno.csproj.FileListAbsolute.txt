@@ -7,3 +7,4 @@ C:\Projetos\ByteBankBibliotecas\ByteBank.SistemaInterno\ByteBank.SistemaInterno\
 C:\Projetos\ByteBankBibliotecas\ByteBank.SistemaInterno\ByteBank.SistemaInterno\obj\Debug\ByteBank.CC14B2B3.Up2Date
 C:\Projetos\ByteBankBibliotecas\ByteBank.SistemaInterno\ByteBank.SistemaInterno\obj\Debug\ByteBank.SistemaInterno.exe
 C:\Projetos\ByteBankBibliotecas\ByteBank.SistemaInterno\ByteBank.SistemaInterno\obj\Debug\ByteBank.SistemaInterno.pdb
+C:\Projetos\ByteBankBibliotecas\ByteBank.SistemaInterno\ByteBank.SistemaInterno\bin\Debug\ByteBank.Modelos.xml

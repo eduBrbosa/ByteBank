@@ -11,8 +11,11 @@ namespace ByteBank.SistemaInterno
     {
         static void Main(string[] args)
         {
-            ContaCorrente conta = new ContaCorrente(125, 320984);
-            Console.WriteLine(conta.Saldo);
+            ContaCorrente contaTeste = new ContaCorrente(234, 34534509);
+
+            contaTeste.Sacar(-10);
+
+            Console.WriteLine(contaTeste.Saldo);
 
             Console.ReadLine();
 
